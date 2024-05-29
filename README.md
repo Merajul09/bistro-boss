@@ -1,3 +1,3 @@
 # Bistro Boss
 
-### Restaurant items & menus
+### Restaurant Menu items
