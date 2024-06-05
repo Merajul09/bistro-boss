@@ -3,4 +3,4 @@
 ### Restaurant Menu items
 #### You can order and add to cart items
 ##### You can also review each products
-###### More code coming soon
+###### More code and components coming soon
